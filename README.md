@@ -31,13 +31,6 @@ Here's a list of technologies I have worked with and have expertise in:
 - **Deep Learning for Natural Language Processing**
 - **AI for Cybersecurity Applications**
 
-## 💼 Past Projects
-(You can briefly mention a few notable projects here that you've worked on related to DevOps, security, or AI.)
-
-## 📫 How to Reach Me
-- **LinkedIn:** 
-- **Email:** 
-
 Feel free to connect with me for collaborations or just a chat about tech!
 
 ## 🌟 Fun Fact
